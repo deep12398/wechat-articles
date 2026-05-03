@@ -110,4 +110,4 @@
 
 下一篇把前面所有概念拉回一张图：Agent 的 7 层架构。只有知道每个能力属于哪一层，出问题时才不会瞎猜。
 
-> 配套代码仓库：公众号后台回复「agent代码」获取。本篇配套代码在仓库 `08_multi_agent/` 目录，包含 Pipeline、Orchestrator-Worker、Peer-to-Peer、共享状态与消息传递对照、事实校验、Token 预算和协调风暴检测器。
+> 配套代码仓库：公众号后台回复「agent代码」，我会把 GitHub 仓库地址发给你。本篇配套代码在仓库 `08_multi_agent/` 目录，包含 Pipeline、Orchestrator-Worker、Peer-to-Peer、共享状态与消息传递对照、事实校验、Token 预算和协调风暴检测器。

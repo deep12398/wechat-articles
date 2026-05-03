@@ -123,4 +123,4 @@ MCP 要解决的是这个集成爆炸。
 
 下一篇进入 Agent 循环。前面我们已经有了 LLM、Prompt、Memory、RAG、Tool，下一步就是把这些零件用一个循环粘起来，让模型一边观察、一边行动、一边修正。
 
-> 配套代码仓库：公众号后台回复「agent代码」获取。本篇配套代码在仓库 `06_tool_essence/` 目录，包含两轮 Function Calling demo、并行 tool_calls、极简 MCP Server、Skill 封装、幂等中间件和错误翻译层。
+> 配套代码仓库：公众号后台回复「agent代码」，我会把 GitHub 仓库地址发给你。本篇配套代码在仓库 `06_tool_essence/` 目录，包含两轮 Function Calling demo、并行 tool_calls、极简 MCP Server、Skill 封装、幂等中间件和错误翻译层。

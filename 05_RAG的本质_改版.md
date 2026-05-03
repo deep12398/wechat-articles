@@ -96,4 +96,4 @@ RAG 入门教程最爱讲 embedding 和向量库，好像向量检索就是 RAG 
 
 下一篇讲 Tool / Function Calling。前面几篇都还停留在"让模型说得更准"，下一篇开始进入 Agent 真正能影响外部世界的部分：让模型决定该调用哪个工具，让你的代码替它动手。
 
-> 配套代码仓库：公众号后台回复「agent代码」获取。本篇配套代码在仓库 `05_rag_essence/` 目录，包含朴素 RAG、Hybrid Search、Reranker、RAG 评估流水线和 fine-tune 数据构造示例。
+> 配套代码仓库：公众号后台回复「agent代码」，我会把 GitHub 仓库地址发给你。本篇配套代码在仓库 `05_rag_essence/` 目录，包含朴素 RAG、Hybrid Search、Reranker、RAG 评估流水线和 fine-tune 数据构造示例。
